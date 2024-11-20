@@ -1,0 +1,253 @@
+<xml>
+  <level name="menu" hash="e7eee57d446b8c1b366cb6481d3a555d" sett="9999" group="9999">
+    <map>JRvCL8F4dQ8YdB+5-oudV_7I7CWqZt6I1CDU3qFyxg3g3GHoqmIDb_MwyLIVXiM2aaIujL8Xy_Oe3ML-yvX9cl5Zgm+_9WXFPBeR+k8_W_TNnGMR5g8ZjJMiywOP3MyDfBwwHMmCYgQwcM2zt_-0-87D+_KIeMQDohFIwMvHg1Tke5w6ghQUMY4mMBDgM4C-E-h3LPYXoheW+69c2lbm0W0KfE8Qv18_C_5AYA</map>
+    <par>0</par>
+    <item>0</item>
+  </level>
+	
+  <level name="Hole-1" hash="e38c7b9a1b93ddbb2584c35c9ba3e9cd" sett="0" group="0" gs="408">
+    <map>ZmBYIgSBMq4LC-TzMBx_DuDIK1U7l_z_3iZZ+PPM-j-Esx-sDbzIPywM-M_f9u-P28bE0_0Bfw8ILM4OD_x_Y_</map>
+    <clip>screen.levels.hole01</clip>
+    <par>2</par>
+    <item>0</item>
+  </level>
+  <level name="Hole-2" desc="wood"  hash="523833b0e0187db5351eb7d6a363134e" sett="0" group="0" gs="409">
+    <map>-j1Ovg0YgqJudCS6nd22c8bJmJ4i8lg5_6WSTEwGqZk5EVtYDtolVSa4RlYLs5B8t+eF_pZxrJKyoUVVRPVHvJG6K9KyNHRTZ8RDoTgtso29Thxgfp+nc-hvX5EsGr_bJGsh2gbj010rfX8DD8rfcQcELA</map>
+    <clip>screen.levels.hole02</clip>
+    <requires group="0" count="1"/>
+    <par>2</par>
+    <item>2</item>
+    <items>43,13,7,4,43,13,1,3</items>
+  </level>
+  <level name="Hole-3" desc="rubber" hash="63813bf117293db9180a793627e15ad5" sett="0" group="0" gs="410">
+    <map>JFggbZFhkbbk5JV+VZekVZ4mWBF95VV9WjQ_hC589L-_kwIMCDIkE73Y8iykMGaRMk4a_W_RMg7EMN+BEnXYnGRRmg5ZnhhBeuZYo_NDWB4_mw_8y+HM2rbC0t0_fg8MyG4MB_x_Y_</map>
+    <clip>screen.levels.hole03</clip>
+    <requires group="0" count="2"/>
+		<par>3</par>
+    <item>3</item>
+    <items>33,13,6,4,33,13,1,3</items>
+  </level>
+  <level name="Hole-4" desc="jellymoss" hash="16b6ccb90c8841575d438e3c6ebc73a9" sett="0" group="0" gs="411">
+    <map>4NhZmNxB-tMZSlcW_2gJYDUWSRekZYkGRJxik10T7Uj2g_hFlJsNnI1IkwaMWjE_l4UMxIFkVHSlB_k50sb5mha-URR-FqVzf8G4Y9guXSmhZ3_KB-7XPGQPT3j4GG44-VDVKg4swGIxTVHVwGmp_os11KgxOl8o2Ub_0_00fg8o-Ex_D_xAYA</map>
+    <clip>screen.levels.hole04</clip>
+    <requires group="0" count="3"/>
+		<par>3</par>
+    <item>4</item>
+    <items>53,1,2,2,53,11,1,3,52,4,0,2</items>
+  </level>
+	
+  <level name="Hole-5" desc="minePractice" hash="0b40d58fac4eaaf5ea0f0d94cfa3023c" sett="0" group="0" gs="412">
+    <map>DQ52gBRM2iNegBxmdJ7+0P5D4a9i_EOmU5buMbigNW7O3VnDvFQNYFUwKwClIO3BGifB3gQ1DlZYk0RBmVZJkMxQ-os4xMIjj_MwyMKYLg2dyY_HbRCgyOCMzDfaYwsM_jG_iD+xlRehZYyGGF8gFYd+8dRjn4KGgB7jhYJQSyhNhXST2Vbu050lfI8kZBrDC_x_YA</map>
+    <clip>screen.levels.hole05</clip>
+    <requires group="0" count="4"/>
+		<par>4</par>
+    <item>3</item>
+    <items>33,1,8,5,53,5,8,4</items>
+  </level>
+  <level name="Hole-6" desc="practice" hash="d5ba6621c1f5ff1af347767d6570a75f" sett="0" group="0" gs="413">
+    <map>5BlRTm5ZZr+SK2zvMiInFMRejJGOmNvkrYqFh9i5zXp3yBCxzOsP5TGmyRIkfY8GxJPhrNPtkRrWQBSF+JZOCQYIQwZMkjd_+4EMwQMgGwYSTQIEWmHGwohYiLMolgjcvSDCbd4hEcZGw_uIgY5GZBYfcdJWyq-V2TbO0X0hfY8oyy6gD_xEY_</map>
+		<clip>screen.levels.hole06</clip>
+    <requires group="0" count="4"/>
+		<par>4</par>
+    <item>3</item>
+    <items>43,13,1,2,33,0,7,5</items>
+  </level>
+	
+  <level name="Hole-7" desc="practice2" hash="b8680650277e8797d95be573d4da1acd" sett="0" group="0" gs="414">
+    <map>2ZY728CfR3EL4SBBV_HSBeHMQHc_Lzg2gDCPK8tWpXKVqqwD93FcnJSV_wGMlDW__wDOQLBmyabKgWHNyp_BDmCETnnBMkZ8yG8Rrg-EfK+88-JYbLY+gBZn+4ZGhB10HaBmwhhQDEME2G_KbNy7z_1YfMFD6_hcB4jCaZggfffs+-fCYMwy7PDj2_bw0N0ZfW8UY_n_Bwx_YA</map>
+    <clip>screen.levels.hole07</clip>
+    <requires group="0" count="5"/>
+		<par>5</par>
+    <item>4</item>
+    <items>42,8,7,3,43,11,0,3</items>
+  </level>
+  <level name="Hole-8" desc="practice3" hash="005831fa5bad0b53bd97e759c7ae8b42" sett="0" group="0" gs="415">
+    <map>ZxmRRkmZ1eXZRkeYZI04fGmWn8aCqavYi4jTp49J+p-RWmUH9j09W4YwSM1nRK4uVlizKpj24JbdZSV5UZjyFs2jI_jwkMWCKsJrlWmgdKGpcJigFEWH5BgmR_mXZBJF9+v_5x8_8l-w4M+Dm9egoIqGOH3_pQFzOkKGOBgh-YdV22bW0F0hfq86IC5cD_xEYA</map>
+    <clip>screen.levels.hole08</clip>
+    <requires group="0" count="5"/>
+		<par>5</par>
+    <item>3</item>
+    <items>53,9,3,3</items>
+  </level>
+  <level name="Hole-9" desc="puncher" hash="23c49db14988e0a0988e0c063d172494" sett="0" group="0" gs="416">
+    <map>pLhSiRalsq8iShaqgIoSSnaHs-2FGxzWNV-4yuaGo+wfTp12XBecp+FWls5RbWs+L-p1U9ixqj_4bWMdygmY4GiDuReVqjmQ01y_EdTJMMRQaor4YMgnFgewZMlYBvGUUK9QQII4l_O_m1QcLD0cLwlImDcTK4RMlib_I0TsjD-QawgFdQGh2Pb00-0GfI8Bt0j_B_xEY_</map>
+    <clip>screen.levels.hole09</clip>
+    <requires group="0" count="6"/>
+		<par>5</par>
+    <item>4</item>
+    <items>33,2,1,2,53,1,10,5,52,6,11,4</items>
+  </level>
+  <level name="Hole-10" desc="puncher2" hash="81b6911edfd68aed68aed6722fd628d3" sett="0" group="0" gs="417">
+    <map>jMGzIv_DeVIlqYzGoYb1MNyDI_43kZ62oIj1MNyTNp3qMYC-PG8ciUK_tOHrymC5hhMXigaZvmgQ32Ngdwr_4GCHvqkaBwm4Fxn-BDf9YjivVVhxZLnoxwvgd_YCcLctDrpq2igLUpHBcmrEemHp+itmGMzjO_yIfMgfD_HYoG_BzxM4wDIDbIMSuVngBBFy26bp0V0qf58gbgjTB_5_YA</map>
+    <clip>screen.levels.hole10</clip>
+    <requires group="0" count="7"/>
+		<par>5</par>
+    <item>7</item>
+  </level>
+  <level name="Hole-11" desc="portaPuncher" hash="ae4cde44168348fe99e6723e9a05675f" sett="0" group="0" gs="418">
+    <map>r6pfe56Xrx7PRI9_0-THTBNY1mQ-L0xGIb8gYZ4F4qxxtartMefj-4Kn5x3wKmPNjmMaagOPjabwk3cF+Ey2H11jgY+EhMXJkixFQPzIZUg8BGSBMl2mYGk_RgGaNbx-Q-dPMZUzLxd9_MgShWW_4wnYNOGB943wzN05Dwl8_DD9OIzIPd8h-JnD-MsLz-J6C0INgDC-W4kfR+yvDxnr+-v-z-+XL-_12abv0_0_fC8z_Jl_B_5_YA</map>
+    <clip>screen.levels.hole11</clip>
+    <requires group="0" count="7"/>
+		<par>6</par>
+    <item>5</item>
+    <items>216,13,13,3,33,0,1,2,53,6,6,2,43,7,5,2,51,9,5,4</items>
+  </level>
+  <level name="Hole-12" desc="gatesNbuttons" hash="44cd9266abc7387858b99c6b573a7b3e" sett="0" group="1" gs="419">
+    <map>+d+2C7e5wnZfw-839w7VZT8dIxjn7Yxo7p3g5FLQkk4NkDrGhdQgxFpIwYBC_BR1SdohPU66I4jYs6y_CwlMMD4kI4-CsjykCC_ccDogY3Q_ODpugwrMGD3H-D-_yx-snBo-P4Fbk8l-B_b-2hb80M0mfC8GZCu_C_xAYA</map>
+    <clip>screen.levels.hole12</clip>
+    <requires group="0" count="8"/>
+		<par>5</par>
+    <item>5</item>
+  </level>
+
+
+  <level name="Hole-13" desc="floorblow" hash="97c4e7eabd42c5a67f12f5b84a3280b4" sett="0" group="1" gs="420">
+    <map>e6W3D-BjbIMzqMlIWBaEhTXEQxoODgrM4iECdLNg1SI9OdyNITUQEk0NLD6Qp0J0jDXXukc658nQfG0RUgPYtGkBUh3Y1T6RyfrUibKQKJvpwJHqCIkvRBWkF4kFBB25L_YC-QTzZWqDvDd87IfPex-_jz7MfD+O9wWMxPMgzwICjIMz2-bb0r0Pfw8g0w5g__xEY_</map>
+    <clip>screen.levels.hole13</clip>
+    <requires group="0" count="8"/>
+		<par>5</par>
+    <item>6</item>
+    <items>52,11,8,4,33,11,1,6,39,1,1,6,216,12,8,3</items>
+  </level>
+  <level name="Hole-14" desc="extraBall" hash="407957c70fb3f9ccbdd82161f0a42063" sett="0" group="2" gs="421">
+    <map>J2q+Yb2vObV1GjkpXserZLUKX6uDfKPweMEvjkHcGGGjZzmmZvmJtS2leg1dPn7DIYjQM5zGIZ-goFvB2RZknZpWg_9w1NGFYGg4wwIMnDW_fwfC6TDgpx1eMDvIfwjSBDJL4Y3ME8wgTD2uZQjIHMmFZggwJ2JQEJVK_5F4UQw-TD3PNw-V-7P_paz_xQg9U-M-m-x9ja8GJhuWZVI+-vP-27b+020nfw8EUM8_B_5AYA</map>
+    <clip>screen.levels.hole14</clip>
+    <requires group="1" count="1"/>
+		<par>6</par>
+    <item>5</item>
+    <items>32,9,4,5,216,13,10,6</items>
+  </level>
+  <level name="Hole-15" desc="pushToButton" hash="f817c77071bdce81e8c5c92801e469d8" sett="0" group="2" gs="422">
+    <map>9n1ZcnetTkr8oEOZsTLzM9+iMYzg7ZvucT5g-c2HDBO0+UOazmMwyeLC3HbC3_fOgbRopKDC8g5kzqM_ygI_37bvLOeCBTlW7t9GX9vqw6IDj_EwcMwzu_iJJOmKYpi5hMcQEQNwKMpEfv8wSH2+ZBnhR4GZZTiiBYfBZNkgNYx2ZBmg9e3J8DzYPkDN8jW_Qz9sEjZP8b-s_jmPWwwhRvF7M6c+Oe-rz-PqPlklhZE+2-be0v0Wfs8XaEo___5YY_</map>
+    <clip>screen.levels.hole15</clip>
+    <requires group="2" count="1"/>
+		<par>6</par>
+    <item>10</item>
+    <items>38,14,4,6,42,6,8,3,216,0,0,5,216,11,9,3,43,1,8,5,43,12,1,3,45,2,1,6</items>
+  </level>
+  <level name="Hole-16" desc="portal" hash="ee7c1b13e143e202dadf2dc0c803fa80" sett="0" group="3" gs="423">
+    <map>faVN3199a7+rXWXdNU1YdV3R+hGUPtXx+k8c3Mf3eNXs-+rF6JuQnzNJmH16VbTPGLYfgUwnFY4GhVMgwUgFZQNkzJmGbBMxjVKBPX5U6ZxuPB6gMYlFIJvq9ZsHhBmiw5uG2RrQNZ2KYdzgMQwXVImVYaXh_jG+ZKoDxQH0KNkDBIXycMZ8Emjw982D4B7oDMJBYwBgDI-WpBbM53BTslcy_rpS-rJ92Xb-0X0afz8G8_8_BQ5_YA</map>
+    <clip>screen.levels.hole16</clip>
+    <requires group="2" count="1"/>
+		<par>7</par>
+    <item>6</item>
+    <items>45,10,1,3,33,1,1,2,33,4,7,2,43,9,9,4</items>
+  </level>
+  <level name="Hole-17" hash="c10df3770ac8dbe0811c68b3394a286f" sett="0" group="3" gs="424">
+    <map>K+zZ8jLpJ5T9s5y4OszUnOP1z-6x+v9tDMMLoEmDZ6mISYIMGQnwR12HZGkgRjmvZ1k6X1x-Ntiy4+jK6+D9Y-ERg+_zyc8qN6WVNQUxesVivofp8CigcogJwCkDDGUwYKk1Ui5c7Unbv2vgnzbMzDy_MwgiMzEOfqRefDCILIcMfTdI7yGSCBSk_wPMUEKg7wsKL_BC7JVGw4gwucPfLxwgBsz+lC-VrY9GP_sS3YQD2j-_3wU_+ljVox-hfll7b93-P-Mfl-+72-bj0l0Xf_8x7gq_D_5_YA</map>
+    <clip>screen.levels.hole17</clip>
+    <requires group="3" count="1"/>
+		<par>7</par>
+    <item>11</item>
+    <items>59,12,6,6,59,13,1,6,59,7,8,4,200,2,7,4,33,2,8,5,216,15,4,6,216,22,0,6,43,6,8,5,43,17,0,6</items>
+  </level>
+  <level name="Hole-18" desc="glass" hash="2542bf0233b03176c05580e73a8b971b" sett="0" group="3" gs="425">
+    <map>86pTfoS+jQlNVIksihIpCcjN3xsYsEfxmV1Vl6nIJY+r4yDuKKoIpqSu1aBPEIBEHQM3386M9YOysxGp1iZhQ6Oyc1CWX7E02ReiVTolD2EmQ5GBDYyxuL+FitqWPYjjGYu_n1yvR_nRhEq4xnDBYfKaQHJhFdDaesILnCb5p9rL5abYoSKEaMWtze7dL4W6-tpoLz6fn19NTv69LQhM-ek-1jNer8Jn5teQ8PP5MQLl9xNaC9ywuIwffHeIuPz_avsP92E8Yq0zWfJkcNwCCgJDicVa4klnKd_W-dbgaFzDg0+I_gKgcYCG2gS5IgEOSYhiWfBoUnPpSzNVX_gEWoMRYZb_BFbgJ_0v4wwJJUjR1KaiJLU01JwiMDdeNgnBH4CMUHhh0of_DsT6lZ6L8zBmb9ackHxlFl7Z0qvufmEaFeR4JfwF2Mb10c0MfQ8tSjP-pgYEHA</map>
+    <clip>screen.levels.hole18</clip>
+    <requires group="3" count="1"/>
+    <par>7</par>
+    <item>15</item>
+    <items>200,12,6,4,59,18,6,5,59,20,0,6,52,7,15,4,216,13,15,3,216,18,14,3,216,13,2,4,33,5,11,3,33,17,3,4,58,13,6,6,49,17,0,5,49,2,2,3</items>
+  </level>
+
+	
+  <level name="Pro-1" hash="ce0f27fc3b0530d1205cbc82ce66448f" sett="1" group="5" gs="432">
+    <map>pc3p3-HYr3l0B9poGFxGWqaqpsVYmMqfjHyuvf-Ruke67I0t9dqCozCdxvEqkcHGxOFtU8khWI5FzdrEP_eIUYNOVLIREuRamFesCbln8jvB+VyZKG+Bag2YYFRFVqVYvpqmupy1bM3Tx_MxjMMjuIeI3MBfTJfwXM5DxO743MyDMwz4Mzr95D1zDQhewG_u7gS8wMWdDgDcGYe6whxgFcdgoMxiSOYIsc8GHGOg-U+Hnox-t-DqMs40HPD2Hr0-Tij-t9QO-vh-GVa6krgBiVH026bY0t05fW8IH_7_Bw5_YA</map>
+    <clip>screen.levels.pro01</clip>
+    <requires group="3" count="1"/>
+    <par>6</par>
+    <item>17</item>
+    <items>216,0,3,5,43,1,1,5,59,21,3,4,59,0,7,5,53,1,4,3,33,15,8,5,33,15,3,6</items>
+  </level>
+  <level name="Pro-2" hash="e5e84e28095265dba38181ba10df2f38" sett="1" group="5" gs="433">
+    <map>X-kLWwcvJbvxu7j996J7V4O6+9bdt3Jxia4XjvsSzommkKMMfvWCQH+c0oQuboLTZOn1Zgx1vwy0KMDXM5vGXtT2jsYTQ_MwQCYouoqK3MUjT__wDMSCBuvao6oiyoKpwngnIDJBBMQhhkcVEmSc2S-8vm+LHpzZsBvRlmJkGJYZhvw4HG-BBghOzsPDb8Mgzc_WbCNboQBKDjF_z4-N3Jns1xfy6j-N-Fu_-FzwwwP1MGwBDg8aUe4--ew-f+O_n8gHp9472Kb-0X0wfl8kZZuwC_5_Y_</map>
+    <clip>screen.levels.pro02</clip>
+    <requires group="3" count="1"/>
+    <par>6</par>
+    <item>13</item>
+    <items>49,5,12,5,49,0,10,5,49,4,11,4,33,14,5,3,33,11,11,3,38,14,1,2,41,9,7,5,216,11,13,3,52,0,4,3,52,9,6,4</items>
+  </level>
+  <level name="Pro-3" hash="c5c61c1111a57176290a70f15cc29b32" sett="1" group="5" gs="434">
+    <map>oF-J5RsU+eUmJXFY+MIDX_sOK2oXwinLZ9eVjT4inavsqTu16cH0OOp-zLyFrhFY9B8VRUWEZheJ-U+YdmiDLT2OWmdFj4Pwu92quKegeY9G4BtOyawBBLRaJDtKvD4EeC6MCjLgs8yh6jzhHs3OsM5jwsj0vMwhgx7g_OwMmDBIwwf78m+DB4nwL-hR5_C5Mgo_qDh9F-Y---PvL3JfX9YjR4nr37v92eb80q0Mfw8MPY5_C_x_YA</map>
+    <clip>screen.levels.pro03</clip>
+    <requires group="5" count="1"/>
+    <par>6</par>
+    <item>14</item>
+    <ghost/>
+    <items>42,12,8,3,49,7,4,4,49,10,8,4,49,7,7,4,216,3,0,5,216,1,6,3,59,1,1,5,58,3,4,4,58,2,6,3</items>
+  </level>
+  <level name="Pro-4" hash="5cb62ae9f9f7f0289cd81430162b83c2" sett="1" group="5" gs="435">
+    <map>zcosiIMBwyg9sfbnrj0QDB40LdidLlqXY7i9R88+_f+IZ1DiNHn3dd9+VvW39LtlGyyYsMx3bGVq3cIaGkIb4tRZXgfzBrfFZl+uK9mZYGj_ZR9F5BcR5k+ZjG7_P9ocRcRNFMVWU5jeNB2gYY7HNJuqPF5HHlSFkiEM2jUgjxwxOPLwv3vnwm4C73vI9M-H1_Ox8wH4DM2Bw2_4z_DBkDZDGUBscD0ED4LjPDBGBX7+O1C-_mgv-8-02qbV0h0bfB8BJJ7_B_5AYA</map>
+    <clip>screen.levels.pro04</clip>
+    <requires group="5" count="2"/>
+    <par>6</par>
+    <item>11</item>
+    <items>216,17,6,6,54,4,1,6,54,11,7,6,43,10,10,4,43,4,6,5,43,15,10,5,45,7,4,6,45,12,7,6</items>
+  </level>
+  <level name="Pro-5" hash="11365a29beae6783f4363b9b324eddbc" sett="1" group="5" gs="436">
+    <map>-uFYVdUZUgYbJO9re39+2a9mqSYc8v+ndT7S2Rsm7Y3F3V3UfEVlSQlUPZpGuB6TXVyHLb_9VI+aQJEGHgQMFDR_87RPiKJKQaBGmJxDNEbK3M8j4_JxYyKD5CSB3g-wvV8Dr_58XI3Fsxv_xyGOtDjhBEGBFNkTNcd2YfnPOZDs7rSGYTd4GzYHgGB_G8dogMhgCgcucGQrNVOqUqnyDVyWbaBtjW-TYVouZ1GKCmgpBZF12Mbo0s0Sfb8_YGrB_g5_YA</map>
+    <clip>screen.levels.pro05</clip>
+    <requires group="5" count="3"/>
+		<par>6</par>
+    <item>12</item>
+    <items>33,8,2,4,43,7,0,2,43,13,4,4,53,16,12,3,216,16,0,5,216,9,5,5,52,15,0,6,38,9,8,5,38,12,9,2</items>
+  </level>
+  <level name="Pro-6" hash="60ea6cf7aa189efd9165510da8bc6a53" sett="1" group="5" gs="437">
+    <map>Ojy6PG7t-RpQezvb0x3kF0U+SeWPEGgHHkB5yuQZ_mdN02bRSkpFWG1cjGCiyoIoXCcCpUtZS9MzfTifV6J+3pKph_EB_gXP13XJfKVlUVhnFk-5i3VVszymIE7f7hFNViEYxBsY2UCVGGPJyg4M+ddGH5Moqc43i_rwiMDCNkC1EMbVWwzkg1-GHJYQmZ_LChf_wMvMtB9TXgoZflxI2_-UbCxB-gJw2OPDk_13jMJYsCzYPDy626bp0l0Vf-89-D02DQ5_YA</map>
+    <clip>screen.levels.pro06</clip>
+    <requires group="5" count="4"/>
+    <par>6</par>
+    <item>9</item>
+    <items>52,8,9,4,44,16,7,4,216,10,9,3,43,1,9,5,43,10,1,3,43,4,1,2</items>
+  </level>
+  <level name="Pro-7" hash="0b33b38e3e9fdb6f796d5cd3687f55cb" sett="1" group="5" gs="438">
+    <map>LrVjeaamC1_3CvGUl72FguI-TNOD_U_wptwT-dV8XzhCZKmzVkRUePmWZOW-VFVJkaXIesmMN4S5095Vrl5x-iqOIsKDqM8x9KtgMkyIMMz7yKIZ7qeO2mZYU3etVH3UdZTG0BRi1YVF9Y3KHF3FvVdk9mWMZT3Ity1aw_mBT5-DW_K3CM0Q2HN+j_u_j_7tvD5Hm9bs2+1Ndtp4+6aKo3Qvq7Mgw+uz_MM70OQ2pMNjUeQcHfJHPHg-xexUMH-Dngfx226ITG8yBdsDlQglcU2tKXjv8V8q01saEtO+KuxVhfMtOesrgVC6K14KSmktDtL1eskrB82+2tbj0-0rfG8CbtgDB_9_YA</map>
+    <clip>screen.levels.pro07</clip>
+    <requires group="5" count="5"/>
+    <par>7</par>
+    <item>15</item>
+    <items>53,1,1,2,53,7,5,2,44,3,6,4,54,3,0,2,54,0,11,5,54,0,5,5,54,1,3,5,216,0,12,4,43,14,12,4,43,5,16,4,45,13,5,5,45,14,2,5</items>
+  </level>
+  <level name="Pro-8" hash="f89598ed8f5a780050921917bc9b88d9" sett="1" group="5" gs="439">
+    <map>6v--v+vzL+y-_fqskWGFMpIKgPNNKErGCMF+KwzzOiDqF-uoSYPpQk_pmlHZBPPXKxgNBg8pJHJhhDYJYsIOQVXzu-s-zynfb-XBI5qP8-iDvNdxjKoxnsUaQCCg_okK+GHxXsfpeK3Tk_dyLsc5im3oH3HDbMn0tYqGvB+i6YORCES60pvTfGzQcUdZllR_BwFZI2xDsgwbY5jBJXi4hGW7FggZd2vB0k-ZVei_MHGQ+nBanGPYYo9ZDCPh8knQOgvm-ck5zgkz+8s_OgPmDPdXw3YPHxCBOMxDywO1EN2XZbwXnqv12abv010+f78k-Y4w__1_Y_</map>
+    <clip>screen.levels.pro08</clip>
+    <requires group="5" count="6"/>
+    <par>7</par>
+    <item>10</item>
+    <items>55,1,4,2,38,7,10,5,38,5,4,6,216,10,0,2,49,2,14,4,49,13,9,3,54,1,14,4,54,13,2,5</items>
+  </level>
+  <level name="Pro-9" hash="07f19d9419828a34565445f734b968d1" sett="1" group="5" gs="440">
+    <map>79F6m9beu-Z+c+36BEDlGm9c9V-FxmfBZuc7-M+61PiPKcqH4qbu3YZF5uySzH-sLj8K5w7CXwloSKyK_Q8k6J9KiTvGjw7GDti6ew5MytxV7mZYpGyBngPUup2qQrtM1okmJBmQPRzb4IaZpFFBVQECNB0GT8P3X-Zzk8VY+VZBjBR424YIhEz_BQHMTG6B8nqkMG4uJQDZGJQB4hR4GGaBgvC5GVjyu1FZzFbrwQBoKDEkQq9udi2s2jbJ0X0Mfj8Gv_1_CQ5_YA</map>
+    <clip>screen.levels.pro09</clip>
+    <requires group="5" count="6"/>
+    <par>7</par>
+    <item>13</item>
+    <items>49,2,13,3,49,1,13,4,49,10,14,5,216,2,14,3,58,8,8,4,58,12,12,4,53,1,3,6,53,2,2,6,43,1,10,6,43,7,1,6</items>
+  </level>
+	
+  <level name="Pro-10" hash="635ade8b68c4da6425cd25a0119a6240" sett="1" group="5" gs="441">
+    <map>MLwC6wwssDw_C_rvDWDBMianrgds2QwH0n9l-vdlnQc_3_x_0DRE3RxE8Re_M_vQvxdIMTbTnYQ_M_V_U_h_GicT-de_MJvEHBTECwW_seR_M_D_Iw+_3MwC_NDZ3-JDE-w138rtv-+z_uZ3nH99_z8c_3gIBYS4c_g_____EGO_QH4wQ_onD_Jc__I_IBwjB-0li1QZCW_qFlQWCpxV_qkqiqeqYlHqMpwqIpEWClgqClBbE6oaHq_68rP-2vbo0_0_f_8_P___M_c__A</map>
+    <clip>screen.levels.pro10</clip>
+    <requires group="5" count="7"/>
+    <par>7</par>
+    <item>12</item>
+    <items>49,3,1,4,49,16,0,6,49,16,8,3,33,12,9,3,33,11,11,5,52,1,12,4,216,2,0,4,216,2,12,3</items>
+  </level>
+  <level name="Pro-11" hash="fe0cc80d2dca205f3d3336e6d000f13a" sett="1" group="5" gs="442">
+    <map>9P9r5+t-8Qvc-PfhRB_8p8vYWO7CGxMMQkalJYI5QTMe0RQ7hUvByZ42Rtj-iPdDtO9xrC3iJktpaCMgyoGpfMMDoC_yJmmN4wcxL1MG3BrgvYMm6F1wquOMI27YmxsC7j7LLI5m-f9DaJhCZDnDHwJgUEQQEkVJMnRy9XjaBS2lkngjdPTnQOkO5IWOafgoRYWGYbn4hQd_sDywBzM0XGqwRVnWp-Yf0oyf7-M-yTi-D1K-z-i5DXF-z-ubHvN+2vb90r0tfR8Y-DzGB_5_Y_</map>
+    <clip>screen.levels.pro11</clip>
+    <requires group="5" count="8"/>
+    <par>7</par>
+    <item>15</item>
+    <items>53,15,1,3,53,1,7,5,216,6,9,6,216,16,7,4,49,17,5,6,49,23,7,4,44,8,1,6,44,1,3,6,44,5,8,4,44,1,8,6,44,22,0,6</items>
+  </level>
+  <level name="Pro-12" hash="368a127a227c72ade5b3b47151fb6c4d" sett="1" group="5" gs="443">
+    <map>yUpenQP+ti7QqOdzt-+TGx75sywWN12osZIG_1CuKyzssRztJbHWCBYhcbDM_gCi+EVBZdDs8wllMKG-QZlvM+QpMeC+7YsSy4artp4VLRd++Q8x9s7gXoVpWKMQDoMqxMSDLJNx9mwihgDZjaPNr7DQtNBrBc7y+Bgz-mhRWRZusOILXBUokRKTXEcckIItfRUmkEhG8dN_kQ-Y-aPmYpckobsmCpxiMB7JCJ0jYDjzMHwC__xl_QDE4ZYseGQWOtHm2rbU0q0NfB8T-Cn_BQ1_YA</map>
+    <clip>screen.levels.pro12</clip>
+    <requires group="5" count="9"/>
+    <par>7</par>
+    <item>22</item>
+    <items>54,2,8,2,54,20,9,2,216,23,10,2,216,14,1,2,216,5,4,2,216,6,10,3,43,2,4,2,43,4,1,2,49,11,11,4,58,21,2,4,58,21,5,4,55,23,9,3,55,10,8,4,55,1,12,5</items>
+  </level>
+
+</xml>
